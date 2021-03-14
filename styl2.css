@@ -1,0 +1,25 @@
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 2%;
+}
+.subheader{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p{
+    text-align : center;
+    color: aqua
+
+
+}
